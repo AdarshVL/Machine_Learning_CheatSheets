@@ -65,6 +65,21 @@ If you find this useful, please **star 🌟 the repo** and share it with your pe
 Your support motivates the creation of more educational resources like this.
 
 ---
+## 👨‍💻 Author
 
-### Created by [Adarsh Lilhare](https://github.com/AdarshLilhare)
-Machine Learning | Data Science | AI Enthusiast
+---
+### Adarsh Lilhare 
+
+🎓 B.Tech in Artificial Intelligence & Data Science
+
+💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor
+
+📧 [Email](adarshlilhare@example.com)
+
+🐙 [GitHub](https://github.com/AdarshVL) 
+
+🌐 [Portfolio](https://adarshlilhare.dev)
+
+🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
+
+---
